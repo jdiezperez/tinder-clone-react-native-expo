@@ -2,7 +2,7 @@
 
 A fully functional mobile dating application inspired by Tinder, built with React Native, Expo, and a Node.js backend. This project features real-time chatting, a swipeable deck of profiles, and a complete authentication flow.
 
-## 📱 Features
+## Features
 
 - **Authentication:** User registration and login using JWT.
 - **Profile Management:** Set up your profile and upload photos.
@@ -10,7 +10,7 @@ A fully functional mobile dating application inspired by Tinder, built with Reac
 - **Matching System:** Automatically detects mutual likes and creates matches.
 - **Real-time Chat:** Instant messaging with matches powered by Socket.io.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend (Mobile App)
 - **React Native** (v0.81.5)
@@ -29,7 +29,7 @@ A fully functional mobile dating application inspired by Tinder, built with Reac
 - **JSON Web Tokens (JWT)** (Authentication)
 - **Bcrypt** (Password hashing)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 tinder-clone/
@@ -57,7 +57,7 @@ tinder-clone/
 └── package.json            # Frontend dependencies
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v16 or higher)
@@ -108,7 +108,7 @@ tinder-clone/
    ```
 5. Scan the QR code with the **Expo Go** app on your physical device, or press `a` for Android emulator / `i` for iOS simulator.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
